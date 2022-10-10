@@ -15,7 +15,7 @@ const isogram = (str) =>{
             }
             
         }
-
+console.log(Letters);
 
     }
     for (const property in Letters) {
